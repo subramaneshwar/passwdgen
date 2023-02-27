@@ -1,0 +1,10 @@
+.input{
+    display: flex;
+}
+.buts{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* height: 50px; */
+    box-shadow : rgba(0, 0, 0, 0.35) 0px 5px 15px
+
+}
